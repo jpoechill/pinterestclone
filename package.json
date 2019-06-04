@@ -1,0 +1,21 @@
+{
+  "name": "vue-pinterestclone-firebase",
+  "version": "1.0.0",
+  "description": "My laudable Nuxt.js project",
+  "author": "porith",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 0.0.0.0 --port 3333",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "firebase": "^5.8.1",
+    "nuxt": "^2.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }  
+}
